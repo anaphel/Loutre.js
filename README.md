@@ -6,7 +6,7 @@ Based on jQuery.
 How to use it
 -------------------------
 
-Example with personnal options:
+Example with custom options:
 
 ```js
 Loutre.init({
